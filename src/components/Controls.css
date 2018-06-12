@@ -1,0 +1,6 @@
+:local(.controls) {
+  div {
+    color: red;
+    padding: 20px;
+  }
+}
