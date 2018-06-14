@@ -1,0 +1,16 @@
+:local(.data) {
+  display: absolute;
+  top: 10vh;
+  height: 82vh;
+  background-position: center center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: black;
+  overflow: hidden;
+  width: 100%;
+  
+  div {
+
+  }
+
+}

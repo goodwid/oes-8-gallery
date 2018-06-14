@@ -1,10 +1,18 @@
 :local(.app) {
-  
+  width: 100%;
+  position: absolute;
+  height: 15vh;
+  top: 0;
+  text-align: center;
+  font-family: 'sans serif';
+  background-color: black;
+  z-index: 10;
   header {
-    background-color: green;
-    h1 {
-      color: salmon;
-    }
 
+    h1 {
+      font-size: 2.2em;
+      color: white;
+      letter-spacing: 10px;
+    }
   }
 }

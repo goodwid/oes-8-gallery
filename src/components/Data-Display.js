@@ -5,19 +5,18 @@ import Footer from './Footer';
 export default class DataDisplay extends Component {
   constructor(props) {
     super(props);
-    this.state = {
-     
-    };
-    
   }
 
   render() {
     const { image } = this.props;
+    const backgroundImage = 'http://dyn.flaim.net/oes8gallery/' + image.src;
+    const style = {
+      backgroundImage: `url("${backgroundImage}")`
+    };
   
     return (
-      <div>
-         
-        <Footer text={image.text} />
+      <div className={styles.data} style={style}>
+        <Footer text={`${image.artist} - ${image.title}`} />
       </div>
     );
   }

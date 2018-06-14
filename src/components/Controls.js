@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import styles from './Controls.css';
+import FontAwesome from 'react-fontawesome';
 
 class Controls extends Component {
   constructor(props) {
@@ -10,13 +11,15 @@ class Controls extends Component {
     this.props.changeImage(num);
   }
 
-  
   render() {
-    
     return (
       <div className={styles.controls}>
-        <div id="left-side" onClick={() => this.handleClick(-1)}>left</div>
-        <div id="right-side" onClick={() => this.handleClick(1)}>right</div>
+        <div id="left-side" onClick={() => this.handleClick(-1)}>
+          <FontAwesome id="button-left" size="3x" name="chevron-circle-left" />
+        </div>
+        <div id="right-side" onClick={() => this.handleClick(1)}>
+          <FontAwesome id="button-right" size="3x" name="chevron-circle-right"/>
+        </div>
       </div>
     );
   }

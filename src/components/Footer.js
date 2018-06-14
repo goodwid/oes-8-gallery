@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import styles from './Footer.css';
 
 class Footer extends Component {
   constructor(props) {
@@ -8,9 +9,9 @@ class Footer extends Component {
     const { text } = this.props;
 
     return (
-      <div>
+      <footer className={styles.footer}>
         {text}
-      </div>
+      </footer>
     );
   }
 }
