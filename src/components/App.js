@@ -22,7 +22,6 @@ export default class App extends Component {
     const { images, selected } = this.state;
     return (
       <div className={styles.app}>
-      &npsb;
         <header>
           <h1>OES 8th Grade Art</h1>
         </header>

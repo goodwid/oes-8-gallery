@@ -10,7 +10,7 @@ class Footer extends Component {
 
     return (
       <footer className={styles.footer}>
-        {text}
+        <span>{text}</span>
       </footer>
     );
   }
