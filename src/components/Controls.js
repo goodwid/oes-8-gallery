@@ -39,8 +39,8 @@ class Controls extends Component {
     return (
       <div className={styles.controls}>
         <Swipeable
-          onSwipedLeft={() => this.handleClick(-1)}
-          onSwipedRight={() => this.handleClick(1)} >
+          onSwipedLeft={() => this.handleClick(1)}
+          onSwipedRight={() => this.handleClick(-1)} >
           <div id="left-side" onClick={() => this.handleClick(-1)}>
             <FontAwesome id="button-left" size="3x" name="chevron-circle-left" />
           </div>
