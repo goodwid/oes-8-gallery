@@ -3,7 +3,7 @@
 :local(.app) {
   width: 100%;
   position: absolute;
-  height: 15vh;
+  height: 100vh;
   top: 0;
   text-align: center;
   background-color: $bgcolor;
