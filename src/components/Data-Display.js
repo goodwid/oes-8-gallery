@@ -9,7 +9,8 @@ export default class DataDisplay extends Component {
 
   render() {
     const { image } = this.props;
-    const backgroundImage = 'http://dyn.flaim.net/oes8gallery/' + image.src;
+    const imageRoot = 'https://s3-us-west-2.amazonaws.com/oes-8-gallery/';
+    const backgroundImage = imageRoot + image.src;
     const style = {
       backgroundImage: `url("${backgroundImage}")`
     };
