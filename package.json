@@ -5,6 +5,7 @@
   },
   "scripts": {
     "build": "webpack --mode production",
+    "build-cordova": "yarn run build && cp docs/* cordova/www",
     "start": "webpack-dev-server --hot --open --mode development",
     "test": "echo \"Testing soon!\" && exit 0",
     "clean": "rm -rf ./docs/* && echo 'Cleanup completed.'"

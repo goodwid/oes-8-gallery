@@ -3,14 +3,9 @@ import styles from './Controls.css';
 import FontAwesome from 'react-fontawesome';
 import Swipeable from 'react-swipeable';
 
-class Controls extends Component {
-  constructor(props) {
-    super(props);
-    this.handleClick = this.handleClick.bind(this);
-    this.handleKeys = this.handleKeys.bind(this);
-  }
+export default class Controls extends Component {
   
-  handleKeys(e) {
+  handleKeys = (e) => {
     switch(e.which) {
       case 37: {
         this.handleClick(-1);
@@ -21,7 +16,7 @@ class Controls extends Component {
         break;
       }
     }
-  }
+  };
 
   componentDidMount() {
     document.addEventListener('keydown', this.handleKeys);
@@ -31,9 +26,9 @@ class Controls extends Component {
     document.removeEventListener('keydown', this.handleKeys);
   }
 
-  handleClick(num) {
+  handleClick = (num) => {
     this.props.changeImage(num);
-  }
+  };
 
   render() {
     return (
@@ -52,5 +47,3 @@ class Controls extends Component {
     );
   }
 }
-
-export default Controls;

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import styles from './App.css';
 import DataDisplay from './Data-Display';
 import Controls from './Controls';
-import images from '../data.json';
+import images from '../2019.json';
 
 export default class App extends Component {
   state = {
@@ -13,8 +13,8 @@ export default class App extends Component {
   changeImage = (count) => {
     let current = this.state.selected + count;
     const limit = this.state.images.length - 1;
-    if(current > limit) current = 0;
-    if(current < 0) current = limit;
+    if (current > limit) current = 0;
+    if (current < 0) current = limit;
     this.setState({ selected: current });
   };
 
