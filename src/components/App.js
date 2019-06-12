@@ -7,7 +7,7 @@ import images from '../2019.json';
 export default class App extends Component {
   state = {
     images,
-    selected: 0
+    selected: 0,
   };
   
   changeImage = (count) => {

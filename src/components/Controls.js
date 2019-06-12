@@ -6,7 +6,7 @@ import Swipeable from 'react-swipeable';
 export default class Controls extends Component {
   
   handleKeys = (e) => {
-    switch(e.which) {
+    switch (e.which) {
       case 37: {
         this.handleClick(-1);
         break;
