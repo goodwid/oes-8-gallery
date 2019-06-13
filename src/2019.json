@@ -92,8 +92,8 @@
   },
   {
     "artist": "Alex C",
-    "title": "Optical Illusions Pen on Paper",
-    "media": "",
+    "title": "Optical Illusions",
+    "media": "Pen on Paper",
     "view": "",
     "src": "Alex_C-Optical_Illusions_Pen_on_Paper.jpg"
   },
@@ -114,15 +114,15 @@
   {
     "artist": "Alex K",
     "title": "KAWS",
-    "media": "Ink",
-    "view": "Pencil",
+    "media": "Ink, Pencil",
+    "view": "",
     "src": "Alex_K-KAWS-Pencil-Ink-Paper.jpg"
   },
   {
     "artist": "Arvin",
-    "title": "3",
+    "title": "3-D Hand",
     "media": "Pencil on Paper",
-    "view": "D Hand",
+    "view": "",
     "src": "Arvin-3-D_Hand-Pencil_on_Paper.jpg"
   },
   {
@@ -175,6 +175,27 @@
     "src": "Barrett-Team_Logos-View_4-Ink_on_Paper.jpg"
   },
   {
+    "artist": "Barrett",
+    "title": "White House",
+    "media": "Fortnite",
+    "view": "",
+    "src": "Barrett-White_House-Fortnite.png"
+  },
+  {
+    "artist": "Barrett",
+    "title": "White House",
+    "media": "Fortnite",
+    "view": "View 2",
+    "src": "Barrett-White_House-View_2-Fortnite.png"
+  },
+  {
+    "artist": "Barrett",
+    "title": "White House",
+    "media": "Fortnite",
+    "view": "View 3",
+    "src": "Barrett-White_House-View_3-Fortnite.png"
+  },
+  {
     "artist": "Bella",
     "title": "Books in Bloom",
     "media": "Mixed Media",
@@ -204,9 +225,9 @@
   },
   {
     "artist": "Bella",
-    "title": "Self",
+    "title": "Self Painting",
     "media": "Acrylic",
-    "view": "Painting",
+    "view": "",
     "src": "Bella-Self-Painting-Acrylic.jpg"
   },
   {
@@ -338,8 +359,8 @@
   {
     "artist": "Eli",
     "title": "Cold",
-    "media": "Pencil",
-    "view": "Pen",
+    "media": "Pen, Pencil, Paper",
+    "view": "",
     "src": "Eli-Cold-Pen-Pencil-Paper.jpg"
   },
   {
@@ -357,18 +378,18 @@
     "src": "Eli-Orange_&_Black-Ceramics.jpg"
   },
   {
-    "artist": "Face Painting Completed",
-    "title": "",
-    "media": "",
-    "view": "",
-    "src": "Face_Painting_Completed.jpg"
-  },
-  {
     "artist": "Face Painting in Class",
     "title": "",
     "media": "",
     "view": "",
     "src": "Face_Painting_in_Class.jpg"
+  },
+  {
+    "artist": "Face Painting Completed",
+    "title": "",
+    "media": "",
+    "view": "",
+    "src": "Face_Painting_Completed.jpg"
   },
   {
     "artist": "Flynn",
@@ -442,23 +463,23 @@
   },
   {
     "artist": "Henry",
-    "title": "Cards View 2",
+    "title": "Cards",
     "media": "Marker and Paper",
-    "view": "",
+    "view": "View 2",
     "src": "Henry-Cards_View_2-Marker_and_Paper.jpg"
   },
   {
     "artist": "Henry",
-    "title": "Cards View 3",
+    "title": "Cards",
     "media": "Marker and Paper",
-    "view": "",
+    "view": "View 3",
     "src": "Henry-Cards_View_3-Marker_and_Paper.jpg"
   },
   {
     "artist": "Henry",
-    "title": "Cards View 4",
+    "title": "Cards",
     "media": "Marker and Paper",
-    "view": "",
+    "view": "View 4",
     "src": "Henry-Cards_View_4-Marker_and_Paper.jpg"
   },
   {
@@ -470,9 +491,9 @@
   },
   {
     "artist": "Henry",
-    "title": "Llama Head Bazooka View 2",
+    "title": "Llama Head Bazooka",
     "media": "Mixed Media",
-    "view": "",
+    "view": "View 2",
     "src": "Henry-Llama_Head_Bazooka_View_2-Mixed_Media.jpg"
   },
   {
@@ -486,15 +507,15 @@
     "artist": "Jacob",
     "title": "A Vision For A New Land",
     "media": "Mixed Media",
-    "view": "View 3",
-    "src": "Jacob-A_Vision_For_A_New_Land-View_3-Mixed_Media.jpg"
+    "view": "View 2",
+    "src": "Jacob-A_Vision_for_a_New_Land-View_2-Mixed_Media.jpg"
   },
   {
     "artist": "Jacob",
-    "title": "A Vision for a New Land",
+    "title": "A Vision For A New Land",
     "media": "Mixed Media",
-    "view": "View 2",
-    "src": "Jacob-A_Vision_for_a_New_Land-View_2-Mixed_Media.jpg"
+    "view": "View 3",
+    "src": "Jacob-A_Vision_For_A_New_Land-View_3-Mixed_Media.jpg"
   },
   {
     "artist": "Jacob",
@@ -520,7 +541,7 @@
   {
     "artist": "James",
     "title": "Book",
-    "media": "Bookmaking Materialos",
+    "media": "Bookmaking Materials",
     "view": "View 2",
     "src": "James-Book-View_2-Bookmaking_Materialos.jpg"
   },
@@ -532,16 +553,16 @@
     "src": "James-James_as_Mermaid-Pencil-Marker-Paper.jpg"
   },
   {
-    "artist": "James Drawing",
-    "title": "",
+    "artist": "James",
+    "title": "Drawing",
     "media": "",
     "view": "",
     "src": "James_Drawing.jpg"
   },
   {
-    "artist": "James Sketches",
-    "title": "Pencil on Paper",
-    "media": "",
+    "artist": "James",
+    "title": "Sketches",
+    "media": "Pencil on Paper",
     "view": "",
     "src": "James_Sketches-Pencil_on_Paper.jpg"
   },
@@ -574,10 +595,10 @@
     "src": "Janie-Books_with_No_Words-View_2-Mixed_Media.jpg"
   },
   {
-    "artist": "Janie",
-    "title": "Maggie & Mason Y",
+    "artist": "Janie, Maggie & Mason",
+    "title": "Night Sky",
     "media": "Acrylic Mural",
-    "view": "Night Sky",
+    "view": "",
     "src": "Janie-Maggie_&_Mason_Y-Night_Sky-Acrylic_Mural.jpg"
   },
   {
@@ -586,6 +607,13 @@
     "media": "Marker on Paper",
     "view": "",
     "src": "Jeremy-Colorful_Curves-Marker_on_Paper.jpg"
+  },
+  {
+    "artist": "Jeremy",
+    "title": "Ban Automatic Weapons",
+    "media": "Photoshop",
+    "view": "",
+    "src": "Jeremy-Ban_Automatic_Weapons-Photoshop.png"
   },
   {
     "artist": "Jesse",
@@ -631,6 +659,13 @@
   },
   {
     "artist": "John",
+    "title": "Monster in the Dark Forest",
+    "media": "Mixed Media",
+    "view": "View 1",
+    "src": "John-Monster_in_the_Dark_Forest-View_1-Mixed_Media.jpg"
+  },
+  {
+    "artist": "John",
     "title": "Monster in The Dark Forest",
     "media": "Mixed Media",
     "view": "View 2",
@@ -643,13 +678,7 @@
     "view": "View 3",
     "src": "John-Monster_in_The_Dark_Forest-View_3-Mixed_Media.jpg"
   },
-  {
-    "artist": "John",
-    "title": "Monster in the Dark Forest",
-    "media": "Mixed Media",
-    "view": "View 1",
-    "src": "John-Monster_in_the_Dark_Forest-View_1-Mixed_Media.jpg"
-  },
+
   {
     "artist": "Julia",
     "title": "A Slice",
@@ -757,14 +786,14 @@
   },
   {
     "artist": "Kaleia",
-    "title": "What is Success",
+    "title": "What is Success?",
     "media": "Bookmaking materials",
     "view": "View 2",
     "src": "Kaleia-What_is_Success-View_2-Bookmaking_materials.jpg"
   },
   {
     "artist": "Kaleia",
-    "title": "What is success",
+    "title": "What is Success?",
     "media": "Bookmaking Materials",
     "view": "View 1",
     "src": "Kaleia-What_is_success-View_1-Bookmaking_Materials.jpg"
@@ -829,15 +858,15 @@
     "artist": "Lara",
     "title": "Tree by Moonlight",
     "media": "Watercolor and Acrylic",
-    "view": "View 2",
-    "src": "Lara-Tree_by_Moonlight-View_2-Watercolor_and_Acrylic.jpg"
+    "view": "View 1",
+    "src": "Lara-Tree_by_Moonlight-Watercolor_and_Acrylic.jpg"
   },
   {
     "artist": "Lara",
     "title": "Tree by Moonlight",
     "media": "Watercolor and Acrylic",
-    "view": "",
-    "src": "Lara-Tree_by_Moonlight-Watercolor_and_Acrylic.jpg"
+    "view": "View 2",
+    "src": "Lara-Tree_by_Moonlight-View_2-Watercolor_and_Acrylic.jpg"
   },
   {
     "artist": "Leela",
@@ -847,10 +876,10 @@
     "src": "Leela-Beachy_Days-Watercolor.jpg"
   },
   {
-    "artist": "Leela",
-    "title": "Lydia",
-    "media": "Geometric Mountain Sunrise",
-    "view": "Julian & Mason",
+    "artist": "Leela, Lydia, Julian & Mason",
+    "title": "Geometric Mountain Sunrise",
+    "media": "",
+    "view": "",
     "src": "Leela-Lydia-Julian_&_Mason-Geometric_Mountain_Sunrise-Acrylic_Mural.jpg"
   },
   {
@@ -912,8 +941,8 @@
   {
     "artist": "Lydia",
     "title": "Clay Pot",
-    "media": "Xceramics",
-    "view": "View 1",
+    "media": "Ceramics",
+    "view": "View 2",
     "src": "Lydia-Clay_Pot-View_1-Xceramics.jpg"
   },
   {
@@ -938,17 +967,17 @@
     "src": "Lydia_&_Maxwell-Mushu-Acrylic_Mural.jpg"
   },
   {
-    "artist": "Maggie",
-    "title": "Bella",
-    "media": "Self",
-    "view": "& Mason",
+    "artist": "Maggie, Bella, & Mason",
+    "title": "Self Painting",
+    "media": "Acrylic",
+    "view": "",
     "src": "Maggie-Bella-&_Mason-Self-Painting-Acrylic.jpg"
   },
   {
     "artist": "Maggie",
-    "title": "Self",
+    "title": "Self Painting",
     "media": "Acrylic",
-    "view": "Painting",
+    "view": "",
     "src": "Maggie-Self-Painting-Acrylic.jpg"
   },
   {
@@ -961,8 +990,8 @@
   {
     "artist": "Maggie",
     "title": "Up",
-    "media": "Marker",
-    "view": "Pencil",
+    "media": "Marker, Pencil",
+    "view": "",
     "src": "Maggie-Up-Pencil-Marker-Paper.jpg"
   },
   {
@@ -974,7 +1003,7 @@
   },
   {
     "artist": "Mason H",
-    "title": "Kayne",
+    "title": "Kanye",
     "media": "Pencil on Paper",
     "view": "",
     "src": "Mason_H-Kayne-Pencil_on_Paper.jpg"
@@ -1016,23 +1045,23 @@
   },
   {
     "artist": "Mason Y",
-    "title": "Self",
+    "title": "Self Painting",
     "media": "Acrylic",
-    "view": "Painting",
+    "view": "",
     "src": "Mason_Y-Self-Painting-Acrylic.jpg"
   },
   {
     "artist": "Mason Y",
-    "title": "What Makes Me",
-    "media": "View 1",
-    "view": "Me.",
+    "title": "What Makes Me, Me",
+    "media": "Mixed Media",
+    "view": "View 1",
     "src": "Mason_Y-What_Makes_Me-Me.-View_1-Mixed_Media.jpg"
   },
   {
     "artist": "Mason Y",
-    "title": "What Makes Me",
-    "media": "View 2",
-    "view": "Me.",
+    "title": "What Makes Me, Me",
+    "media": "Mixed Media",
+    "view": "View 2",
     "src": "Mason_Y-What_Makes_Me-Me.-View_2-Mixed_Media.jpg"
   },
   {
@@ -1067,15 +1096,15 @@
     "artist": "Maxwell",
     "title": "Bao",
     "media": "Paper and Pencil",
-    "view": "View 3",
-    "src": "Maxwell-Bao-View_3-Paper_and_Pencil.jpg"
+    "view": "View 2",
+    "src": "Maxwell-Bao_View_2-Paper_and_Pencil.jpg"
   },
   {
     "artist": "Maxwell",
-    "title": "Bao View 2",
+    "title": "Bao",
     "media": "Paper and Pencil",
-    "view": "",
-    "src": "Maxwell-Bao_View_2-Paper_and_Pencil.jpg"
+    "view": "View 3",
+    "src": "Maxwell-Bao-View_3-Paper_and_Pencil.jpg"
   },
   {
     "artist": "Maxwell",
@@ -1107,23 +1136,23 @@
   },
   {
     "artist": "Maxwell",
-    "title": "Porsche 356 Beetle 'Beep",
+    "title": "Porsche 356 Beetle 'Beep Beep'",
     "media": "Mixed Media",
-    "view": "Beep'",
+    "view": "View 1",
     "src": "Maxwell-Porsche_356_Beetle_'Beep-Beep'-Mixed_Media.jpg"
   },
   {
     "artist": "Maxwell",
-    "title": "Porsche 356 Beetle 'Beep Beep' View 2",
+    "title": "Porsche 356 Beetle 'Beep Beep'",
     "media": "Mixed Media",
-    "view": "",
+    "view": "View 2",
     "src": "Maxwell-Porsche_356_Beetle_'Beep_Beep'_View_2-Mixed_Media.jpg"
   },
   {
     "artist": "Maxwell",
-    "title": "Porsche 356 Beetle 'Beep Beep' View 3",
+    "title": "Porsche 356 Beetle 'Beep Beep'",
     "media": "Mixed Media",
-    "view": "",
+    "view": "View 3",
     "src": "Maxwell-Porsche_356_Beetle_'Beep_Beep'_View_3-Mixed_Media.jpg"
   },
   {
@@ -1171,8 +1200,8 @@
   {
     "artist": "Nabila",
     "title": "Notre Dame Calligraphy",
-    "media": "Ink",
-    "view": "Acrylic",
+    "media": "Ink & Acrylic",
+    "view": "",
     "src": "Nabila-Notre_Dame_Calligraphy-Acrylic-Ink-Paper.png"
   },
   {
@@ -1181,6 +1210,13 @@
     "media": "Mixed Media",
     "view": "View 1",
     "src": "Nabila-The_Aliiien_with_Three_Eyes-View_1-Mixed_Media.jpg"
+  },
+  {
+    "artist": "Nabila",
+    "title": "The Aliiien with Three Eyes",
+    "media": "Mixed Media",
+    "view": "View 2",
+    "src": "Nabila-The_Aliiien_with_three_Eyes-View_2-Mixed_Media.jpg"
   },
   {
     "artist": "Nabila",
@@ -1202,13 +1238,6 @@
     "media": "Mixed Media",
     "view": "View 5",
     "src": "Nabila-The_Aliiien_with_Three_Eyes-View_5-Mixed_Media.jpg"
-  },
-  {
-    "artist": "Nabila",
-    "title": "The Aliiien with three Eyes",
-    "media": "Mixed Media",
-    "view": "View 2",
-    "src": "Nabila-The_Aliiien_with_three_Eyes-View_2-Mixed_Media.jpg"
   },
   {
     "artist": "Nabila & Leela",
@@ -1270,15 +1299,15 @@
     "artist": "Piper & Nina",
     "title": "Tranquil Mountainscape",
     "media": "Acrylic",
-    "view": "View 2",
-    "src": "Piper_&_Nina-Tranquil_Mountainscape-View_2-Acrylic.jpg"
-  },
-  {
-    "artist": "Piper & ina",
-    "title": "Tranquil Mountainscape",
-    "media": "Acrylic",
     "view": "View 1",
     "src": "Piper_&_ina-Tranquil_Mountainscape-View_1-Acrylic.jpg"
+  },
+  {
+    "artist": "Piper & Nina",
+    "title": "Tranquil Mountainscape",
+    "media": "Acrylic",
+    "view": "View 2",
+    "src": "Piper_&_Nina-Tranquil_Mountainscape-View_2-Acrylic.jpg"
   },
   {
     "artist": "Projects in Process",
@@ -1316,6 +1345,13 @@
     "src": "Sam-Snake_Surfaces-View_2-Paper_and_Pencil.jpg"
   },
   {
+    "artist": "Sam",
+    "title": "Shield of The Holy Land",
+    "media": "Mixed Media",
+    "view": "",
+    "src": "Sam-Shield_of_The_Holy_Land-Mixed_Media.jpg"
+  },
+  {
     "artist": "Sean",
     "title": "Pot",
     "media": "Ceramics",
@@ -1330,8 +1366,8 @@
     "src": "Sean-Queen's_Guard-Pencil_on_Paper.jpg"
   },
   {
-    "artist": "Sean Apple",
-    "title": "tm Tree",
+    "artist": "Sean",
+    "title": "Apple™ Tree",
     "media": "Marker on Paper",
     "view": "",
     "src": "Sean_Apple-tm_Tree-Marker_on_Paper.jpg"
@@ -1367,8 +1403,8 @@
   {
     "artist": "Sydney",
     "title": "Hands",
-    "media": "Acrylic",
-    "view": "Pencil",
+    "media": "Acrylic & Pencil",
+    "view": "",
     "src": "Sydney-Hands-Pencil-Acrylic-Paper.png"
   },
   {

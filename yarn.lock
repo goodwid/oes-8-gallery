@@ -2596,6 +2596,11 @@ execa@^1.0.0:
     signal-exit "^3.0.0"
     strip-eof "^1.0.0"
 
+exif-orientation-lite@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/exif-orientation-lite/-/exif-orientation-lite-1.0.1.tgz#4b514a031e61d6b6df03f31c590e9d6816f618fb"
+  integrity sha512-ErGa287WKs+2Bo/iUJ3xGvGK2JGmBd24E+RefP3krFxcToL4QTmbz3l6odDZIp/PdlQ7kjKynSUSUHOCv1c0Vw==
+
 expand-brackets@^2.1.4:
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/expand-brackets/-/expand-brackets-2.1.4.tgz#b77735e315ce30f6b6eff0f83b04151a22449622"
