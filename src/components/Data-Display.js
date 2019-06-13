@@ -11,7 +11,6 @@ export default class DataDisplay extends Component {
     const { image } = this.props;
     const { artist, title, view, media } = image;
     const imageRoot = 'https://s3-us-west-2.amazonaws.com/oes-8-gallery/2019/';
-    // const imageRoot = './2019-images/';
     const backgroundImage = imageRoot + image.src;
     const style = {
       backgroundImage: `url("${backgroundImage}")`
